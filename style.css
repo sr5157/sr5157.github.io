@@ -14,7 +14,7 @@ body{
   height: 100vh;
   /* overflow: hidden; */
   padding: 10px;
-  background: linear-gradient(to bottom, #68EACC 0%, #497BE8 100%);
+  background: linear-gradient(to bottom, #FFAD1E 0%, #F78FC5 100%);
 }
 .wrapper{
   background: #fff;
